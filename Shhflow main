@@ -7,7 +7,7 @@ local Window = Library:CreateWindow("shhflow.cc", Vector2.new(430, 310), Enum.Ke
 loadstring(game:HttpGet("https://pastefy.app/s9BiQ0ix/raw"))()
      end) 
    testSection:AddButton("shhflow.cc cam 2", function(IhateGayPeople)
-loadstring(game:HttpGet("https://pastefy.app/viTrv4gm/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/HuD5M6qZ/raw"))()
      end) 
 testSection:AddButton("shhflow cam 3", function(IhateGayPeople)
 loadstring(game:HttpGet("https://pastefy.app/rDiFyn2c/raw"))()
