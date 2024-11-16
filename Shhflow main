@@ -19,7 +19,7 @@ testSection:AddButton("shhflow.cc cam 5", function(IhateGayPeople)
 loadstring(game:HttpGet("https://pastefy.app/5Q0Kh8G7/raw", true))()
      end) 
 testSection:AddButton("shhflow.cc cam 6", function(IhateGayPeople)
-loadstring(game:HttpGet("https://pastefy.app/jZTwJGcG/raw", true))()
+loadstring(game:HttpGet("https://pastefy.app/M3AF9BwC/raw", true))()
      end)
 
 local testSection = AimingTab:CreateSector(" Random", "right")
