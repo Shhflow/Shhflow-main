@@ -4,7 +4,7 @@ local Window = Library:CreateWindow("shhflow.cc", Vector2.new(430, 310), Enum.Ke
     local testSection = AimingTab:CreateSector("  Camlocks ", "left")
     local bladLockPrediction = 0
    testSection:AddButton("Shhflow.cc cam", function(IhateGayPeople)
-loadstring(game:HttpGet("https://pastefy.app/G4HT0DNA/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/s9BiQ0ix/raw"))()
      end) 
    testSection:AddButton("shhflow.cc cam 2", function(IhateGayPeople)
 loadstring(game:HttpGet("https://pastefy.app/viTrv4gm/raw"))()
