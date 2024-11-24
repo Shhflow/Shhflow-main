@@ -162,6 +162,6 @@ local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ki
 local Notify = AkaliNotif.Notify;
 Notify({
 Description = "Made by Shhflow";
-Title = "https://discord.gg/3DSUeGbNGR";
+Title = "https://discord.gg/Ghostcc";
 Duration = 6; 
 })
